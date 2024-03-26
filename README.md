@@ -22,8 +22,8 @@ git clone https://github.com/yourusername/book-management-system.git
 2. Compile and Run: Compile the Java files and run the Main class to execute the Book Management System:  
 
 
-javac Main.java  
-java Main  
+   javac Main.java  
+   java Main  
 
 3. Follow On-Screen Instructions: Follow the on-screen instructions to interact with the system, navigate through book files, and view book details.
 
